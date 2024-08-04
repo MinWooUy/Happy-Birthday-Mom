@@ -207,9 +207,15 @@ p {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.audio{
-  position:absolute;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+audio {
+  position: absolute;
+  bottom: 10px;
+  right: 600px;
+  width: 300px;
+  max-width: 100%;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
